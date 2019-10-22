@@ -4,6 +4,6 @@ title: About
 permalink: /about/
 ---
 
-#My bio belongs here.
+My bio belongs here.
 
 This is all about me!
